@@ -1,3 +1,18 @@
-# My Awesome Book
+# 前期自己学python基础的时候，参考了三本书籍，本以为大部分知识点都已经涉猎到，但是今天进《腾讯课堂》里的python课程里简单听了一下，发现还是有很多知识点没有看到。
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+
+
+# 怎么感觉自己像是《腾讯课堂》的托。。。。。真的不是，就是一个好学的孩子想多方面接触python基础知识点，打好基础，后面才能轻松一些。这是我一贯的逻辑。基础很重要。
+
+
+
+前面的三本参考书籍：
+
+《Python编程：从入门到实践》【美】Eric Matthes 袁国忠译 图灵程序设计图书
+
+《Python语言及其应用》Bill Lubanovic 图灵程序设计图书
+
+《Python编程快速上手-让繁琐工作自动化》Al Sweigart 王海鹏译 人民邮电出版社
+
+
+

@@ -1,6 +1,7 @@
-# Table of content
+# Summary
 
-* 变量
+* [Introduction](README.md)
+* [变量](变量.md)
 * 数值类型
 * 序列类型
 * 可变序列类型
@@ -9,8 +10,4 @@
 * 映射类型
 * 程序单元类型
 * 其他
-
-
-
-
 
